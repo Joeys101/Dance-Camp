@@ -183,7 +183,7 @@ button a {
   }
   
   .youtube img{
-    margin-top: 90%;
+    margin-top: 90%; 
     max-height: 6rem;
     -webkit-transition: -webkit-transform .5s ease-in-out;
     -ms-transition: -ms-transform .5s ease-in-out;
