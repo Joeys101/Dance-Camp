@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100&family=Bebas+Neue&family=Quicksand:wght@300&family=Rajdhani&family=Roboto+Slab:wght@300&family=Yanone+Kaffeesatz:wght@300&display=swap');
+
+body {
+    background-color: rgba(0, 0, 0, 0.678);
+    font-family: 'Roboto Slab', serif;
+}
+h3 {
+    margin-left: 40%;
+    color: white;
+    margin-bottom: 3%;
+}
+img{
+    margin-top: 10%;
+    margin-left: 48.1%;
+    max-height: 100px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 49.1%;
+    padding: 0.5%;
+    border: solid rgba(0, 0, 0, 0.808) 2px;
+    border-radius: 10px;
+}
+a:hover {
+    background-color:rgba(0, 0, 0, 0.808);
+    transition: 0.5s;
+    border: solid white 1px;
+}
